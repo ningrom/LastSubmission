@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">magazine</string>
+    <string name="smartphone_name">Jenis Gawai</string>
+    <string name="description">Spesifikasi</string>
+
+    <string name="about_page">About</string>
+    <string name="textview">TextView</string>
+    <string name="price_0_00">Price: $0.00</string>
+
+    <string-array name="data_name">
+        <item>BlackBerry 8220</item>
+        <item>BlackBerry Curve 8310</item>
+        <item>BlackBerry Curve 8530 AHA</item>
+        <item>Iphone 3G</item>
+        <item>Iphone 4</item>
+        <item>Nokia 7310 Supernova</item>
+        <item>Nokia 7610</item>
+        <item>Nokia E65</item>
+        <item>Nokia E71</item>
+        <item>Nokia E90</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pearl Flip 8220 memiliki 1 Varian sebesar 75MB. Tanggal rilis BlackBerry Pearl Flip 8220 di Indonesia adalah September 2008. Dirilis 2008, Oktober. Warna Pearl Flip 8220 adalah Hitam. Ukuran layar BlackBerry Pearl Flip 8220 adalah 2,6 inci dan dilengkapi tipe layar 65 ribu warna yang mendukung resolusi 240 x 320 piksel. Performa ponsel ini berbasis Chipset dan prosesor 32-bit dengan GPU. </item>
+
+        <item>Curve 8310 memiliki 1 Varian ROM 64MB. Tanggal rilis BlackBerry Curve 8310 di Indonesia adalah Agustus 2007. Warna Curve 8310 adalah Perak. Ukuran layar BlackBerry Curve 8310 adalah 2,5 inci dan dilengkapi tipe layar 65K warna yang mendukung resolusi 320 x 240 piksel. Performa ponsel ini berbasis Chipset dan prosesor 32-bit dengan GPU.</item>
+
+        <item>BlackBerry Aha Curve 8530 sama persis dengan BlackBerry Curve 8520 atau Gemini. Keduanya memiliki panjang 10,9 cm, lebar 6 cm, tebal 1,3 cm, dan berat 106 gram. Material dan bentuk keypad Qwerty-nya pun tak ada yang berbeda. Hanya saja perbedaan terletak pada jaringan. Jika Gemini beroperasi di jaringan GSM 850 / 900 / 1800 / 1900, Curve 8530 berjalan di jaringan CDMA 800 / 1900.Dengan begitu, akses data untuk Curve 8530 adalah 3G Rev. A yang maksimal kecepatannya diklaim AHA mencapai 3,1 Mbps, Blackberry Curve 8530 mempunyai prosesor setingkat 528 MHz. </item>
+
+        <item>Apple iPhone 3G 8GB memiliki dua pilihan warna yaitu hitam dan putih. Bentuk keduanya pun sama, hanya berbeda warna saja. Layar berukuran 3,5 inci 16 juta warna menjadi andalan utama ponsel ini dalam menghasilkan output visual. Fitur Multitouch yang seperti telah menjadi signatur dari Apple pun masih tersedia, kini dengan performa yang lebih canggih. Prosesor ponsel ini menggunakan ARM 11 412MHz dan RAM sebesar 128MB. Di kelasnya, ponsel ini tampak tidak ada tandingannya. Spesifikasi ini pula-lah yang membuat Apple iPhone 3G 8GB memiliki performa yang sangat menjanjikan. Tidak hanya itu, beragam aplikasi juga dapat diunduh dan diinstal dengan mudah menggunakan Apple Store. Apabila anda suka dengan musik, aplikasi iTunes juga tidak boleh dilewatkan pada ponsel ini.Kamera berkekuatan 2MP telah menjadi kekuatan utama ponsel ini. Video pun telah dapat direkamnya, meskipun masih dengan kualitas terbatas yakni VGA 0,3MP saja. Konektivitas pun tidak menjadi masalah mengingat Apple iPhone 3G 8GB ini telah dapat menjangkau jaringan HSDPA.</item>
+
+        <item>Spesifikasi Apple iPhone 4 bertumpu pada Apple A4, 512 GB dan kamera yang mampu menghasilkan foto dengan resolusi maksimal 5 MP. Dibekali sistem operasi iOS 4, upgradable to iOS 7.1.2 dan layar berukuran 3.5″ Inch.
+        \nPada sektor performa, perangkat ini mengandalkan chipset Apple A4 yang ditopang Central Processing Unit atau CPU 1.0 GHz Cortex-A8 dan prosesor grafis / GPU PowerVR SGX535. Komponen pemrosesan tersebut didukung dengan RAM berkapasitas 512 GB. Lengkap dengan opsi penyimpanan internal / ROM berkapasitas 8GB/16GB/32GB storage, no card slot dan baterai berjenis Li-Po dengan kapasitas 1420 mAh.</item>
+
+        <item>Nokia 7310 Supernova memiliki 1 Varian sebesar 32MB. Tanggal rilis Nokia 7310 Supernova di Indonesia adalah Juni 2008. Dirilis 2008, Juni. Warna Supernova 7310 adalah Steel Blue, Wasabi Green, Candy Pink, Mushroom Silver, Plum Jam, Electric Blue, Yellow Mellow, Graph. Ukuran layar Nokia 7310 Supernova adalah 2,0 inci dan dilengkapi tipe layar TFT yang mendukung resolusi 240 x 320 piksel. Performa ponsel ini didasarkan pada Chipset dan prosesor dengan GPU. </item>
+
+        <item>Spesifikasi Nokia 7610 bertumpu pada TI OMAP 1510, GB dan kamera yang mampu menghasilkan foto dengan resolusi maksimal 1 MP. Perangkat yang diperkenalkan pada 2004, March ini dibekali sistem operasi Symbian 7.0s, Series 60 v2.0 UI dan layar berukuran 2.1″ Inch. Perangkat cerdas ini hadir dengan beberapa pilihan warna (Ruby and Onyx) dan memiliki body berdimensi 109 x 53 x 19 mm, 93 cc (4.29 x 2.09 x 0.75 in) dengan berat 118 g (4.16 oz). Desainnya dibangun dari komponen , dengan slot SIM card yang diletakkan pada sisi body, support Mini-SIM. Pada sektor performa, perangkat ini mengandalkan chipset TI OMAP 1510 yang ditopang Central Processing Unit atau CPU 123 MHz ARM925T dan prosesor grafis / GPU . Komponen pemrosesan tersebut didukung dengan RAM berkapasitas GB. Lengkap dengan opsi penyimpanan internal / ROM berkapasitas 8MB storage, RS-MMC slot dan baterai berjenis Li-Ion dengan kapasitas 900 mAh. Beralih ke bagian multimedia, ada layar berukuran 2.1″ Inch dengan jenis TFT, 65K colors. Resolusi layarnya 176×208 pixels dan telah dilengkapi dengan ,. Layar tersebut jadi viewfinder yang cukup nyaman untuk menampilkan beragam fungsi yang dibawanya. Termasuk untuk menonton video dan bermain game tentunya </item>
+
+        <item>Spesifikasi Nokia E65 bertumpu pada , 64 GB dan kamera yang mampu menghasilkan foto dengan resolusi maksimal 2 MP. Perangkat yang diperkenalkan pada 2007, February. Released 2007, February ini dibekali sistem operasi Symbian OS 9.1, Series 60 UI dan layar berukuran 2.2″ Inch. Perangkat cerdas ini hadir dengan beberapa pilihan warna (Red, Mocca, Black, Full Black, Bronze Black, Pink, Plum, White) dan memiliki body berdimensi 105 x 49 x 15.5 mm, 74 cc (4.13 x 1.93 x 0.61 in) dengan berat 115 g (4.06 oz). Desainnya dibangun dari komponen , dengan slot SIM card yang diletakkan pada sisi body, support Mini-SIM. Pada sektor performa, perangkat ini mengandalkan chipset yang ditopang Central Processing Unit atau CPU 220 MHz Dual ARM 9 dan prosesor grafis / GPU . Komponen pemrosesan tersebut didukung dengan RAM berkapasitas 64 GB. Lengkap dengan opsi penyimpanan internal / ROM berkapasitas 50MB 64MB RAM storage, microSD slot dan baterai berjenis Li-Ion dengan kapasitas 950 mAh. Beralih ke bagian multimedia, ada layar berukuran 2.2″ Inch dengan jenis TFT, 16M colors. Resolusi layarnya 240×320 pixels dan telah dilengkapi dengan, Five-way scroll key dan Downloadable themes. Layar tersebut jadi viewfinder yang cukup nyaman untuk menampilkan beragam fungsi yang dibawanya. Termasuk untuk menonton video dan bermain game tentunya. </item>
+
+        <item>Spesifikasi Nokia E71 bertumpu pada , 128 GB dan kamera yang mampu menghasilkan foto dengan resolusi maksimal 3 MP. Perangkat yang diperkenalkan pada 2008, June. Released 2008, July ini dibekali sistem operasi Symbian OS 9.2, Series 60 v3.1 UI dan layar berukuran 2.36″ Inch. Perangkat cerdas ini hadir dengan beberapa pilihan warna (White Steel, Grey Steel, Black, Red) dan memiliki body berdimensi 114 x 57 x 10 mm, 66 cc (4.49 x 2.24 x 0.39 in) dengan berat 127 g (4.48 oz). Desainnya dibangun dari komponen , dengan slot SIM card yang diletakkan pada sisi body, support Mini-SIM. Pada sektor performa, perangkat ini mengandalkan chipset yang ditopang Central Processing Unit atau CPU 369 MHz ARM 11 dan prosesor grafis / GPU . Komponen pemrosesan tersebut didukung dengan RAM berkapasitas 128 GB. Lengkap dengan opsi penyimpanan internal / ROM berkapasitas 110MB 128MB RAM storage, microSDHC slot dan baterai berjenis Li-Po dengan kapasitas 1500 mAh. Beralih ke bagian multimedia, ada layar berukuran 2.36″ Inch dengan jenis TFT, 16M colors. Resolusi layarnya 320×240 pixels dan telah dilengkapi dengan ,Five-way scroll key. Layar tersebut jadi viewfinder yang cukup nyaman untuk menampilkan beragam fungsi yang dibawanya. Termasuk untuk menonton video dan bermain game tentunya </item>
+
+        <item>Spesifikasi Nokia E90 bertumpu pada , GB dan kamera yang mampu menghasilkan foto dengan resolusi maksimal 3 MP. Perangkat yang diperkenalkan pada 2007, February. Released 2007, June ini dibekali sistem operasi Symbian 9.2, S60 rel. 3.1 dan layar berukuran 4.0″ Inch. Perangkat cerdas ini hadir dengan beberapa pilihan warna (Red, Mocha) dan memiliki body berdimensi 132 x 57 x 20 mm, 140 cc (5.20 x 2.24 x 0.79 in) dengan berat 210 g (7.41 oz). Desainnya dibangun dari komponen , dengan slot SIM card yang diletakkan pada sisi body, support Mini-SIM. Pada sektor performa, perangkat ini mengandalkan chipset yang ditopang Central Processing Unit atau CPU 330 MHz dan prosesor grafis / GPU . Komponen pemrosesan tersebut didukung dengan RAM berkapasitas GB. Lengkap dengan opsi penyimpanan internal / ROM berkapasitas 128MB storage, microSDHC slot dan baterai berjenis Li-Ion dengan kapasitas 1500 mAh. Beralih ke bagian multimedia, ada layar berukuran 4.0″ Inch dengan jenis TFT, 16M colors. Resolusi layarnya 800×352 pixels dan telah dilengkapi dengan ,Second external 16M colors display (240 x 320 pixels), 2 inches dan Downloadable themes. Layar tersebut jadi viewfinder yang cukup nyaman untuk menampilkan beragam fungsi yang dibawanya. Termasuk untuk menonton video dan bermain game tentunya.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/blackberry_8220</item>
+        <item>@drawable/blackberry_curve_8310</item>
+        <item>@drawable/bb_curve_8530_aha</item>
+        <item>@drawable/iphone_3g</item>
+        <item>@drawable/iphone_4</item>
+        <item>@drawable/nokia_7310_supernova</item>
+        <item>@drawable/nokia_7610</item>
+        <item>@drawable/nokia_e65</item>
+        <item>@drawable/nokia_e71</item>
+        <item>@drawable/nokia_e90</item>
+    </integer-array>
+
+    <string-array name="data_price">
+        <item>2.028,499</item>
+        <item>2.396,999</item>
+        <item>3.597,550</item>
+        <item>6.999,450</item>
+        <item>2.028,499</item>
+        <item>1.175,550</item>
+        <item>4.575,350</item>
+        <item>2.575,250</item>
+        <item>5.150,750</item>
+        <item>2.075,120</item>
+    </string-array>
+
+</resources>
